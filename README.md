@@ -1,4 +1,4 @@
-Ziphilさんに許可をもらって開発(している|する予定の)、Ziphilさんらによる人工言語辞書アプリ「ZpDIC online」の派生アプリです。派生アプリの開発は都度Ziphilさんの許可がいります
+Ziphilさんに許可をもらって開発(している|する予定の)、Ziphilさんらによる人工言語辞書アプリ[ZpDIC online](http://zpdic.ziphil.com)の派生アプリです。派生アプリの開発は都度Ziphilさんの許可がいります
 
 ## Ziphilさんにもらった条件と許可(2023-12-10)
 togetter: [https://togetter.com/li/2274001](https://togetter.com/li/2274001)  
