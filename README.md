@@ -1,35 +1,18 @@
-<div align="center">
-<h1>ZpDIC Online (Version 2)</h1>
-</div>
+Ziphilさんに許可をもらって開発(している|する予定の)、Ziphilさんらによる人工言語辞書アプリ「ZpDIC online」の派生アプリです。派生アプリの開発は都度Ziphilさんの許可がいります
 
-![](https://img.shields.io/github/package-json/v/Ziphil/ZpdicOnlineNova)
-![](https://img.shields.io/github/commit-activity/y/Ziphil/ZpdicOnlineNova?label=commits)
+## Ziphilさんにもらった条件と許可(2023-12-10)
+togetter: [https://togetter.com/li/2274001](https://togetter.com/li/2274001)  
+原文: [https://x.com/Ziphil/status/1733858572705186023?s=20](https://x.com/Ziphil/status/1733858572705186023?s=20)  
+- Ziphilさんから開発についてまもらなければいけない条件  
+  -「ZpDIC」という名称とロゴを使わないこと
+  - 本家ZpDICの派生アプリである旨を分かる位置に明記すること
+  - 本家ZpDICへの動線を設置すること
+  - Ziphilさんがネット上で活動しているときに、Ziphilさんの許可を得ずに孫にあたる派生アプリの開発の許可を出さないこと
+- Ziphilさんから許可をもらっていること
+  - Ziphilさんがネット上でもはや活動しておらず連絡が取れない状況の場合の派生アプリの許可を出すこと
+  - 公開リポジトリで開発すること
 
-
-## 概要
-ZpDIC の Web アプリ版です。
-デスクトップ版と比べ、造語依頼機能や複数ユーザーによる編集機能など、Web アプリならではの機能を重点的に実装しています。
-アプリは[こちら](http://zpdic.ziphil.com/)で公開しています。
-
-(*>△<) ＜応援ください!
-
-## お問い合わせ
-ZpDIC Online に関する開発状況や追加予定の機能などは、以下のダッシュボードをご覧ください。
-
-- [開発ダッシュボード](https://ziphil.notion.site/ZpDIC-Online-987030f6505e4cf1ba8fe08121584d93)
-
-ZpDIC Online に関するご意見やご要望は、ZpDIC Online 上の[お問い合わせフォーム](http://zpdic.ziphil.com/contact)から送信していただくか、このリポジトリにイシューとして追加してください。
-どちらの方法を用いても、最終的に開発ダッシュボードの項目として追加され、今後の開発の参考にさせていただきます。
-
-## コントリビューション
-「needs help」タグが付けられたイシューについては、プルリクエストなどによる貢献を受け付けています。
-詳細は各イシューのページをご覧ください。
-
-- [貢献を求めるイシューの一覧](https://github.com/Ziphil/ZpdicOnlineNova/issues?q=is%3Aissue+is%3Aopen+label%3A%22needs+help%22)
-
-## 使い方
-以下は、環境構築やデプロイのために行うべき操作の概要です。
-備忘録として残しておきます。
+## 環境構築とデプロイの手順メモ(この項目の文章はオリジナルの作者Ziphilさんによる)
 
 - [ローカル](document/local.md)
 - [Heroku](document/heroku.md)
